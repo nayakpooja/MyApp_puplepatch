@@ -1,0 +1,70 @@
+.listItem{
+    margin-top: 5%;
+    margin-left:5%;
+    font-style: italic
+}
+
+.bgimage {
+    background-image: url("../images/image3.png");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.Select-control{
+    width: 80% !important;
+}
+
+.firstSec{
+    background-color: antiquewhite;
+    border: 3px solid antiquewhite;
+    border-radius: 10pt;
+}
+
+.secondSec{
+    border: 3px solid antiquewhite;
+    border-radius: 10pt;
+    background-color: antiquewhite;
+}
+
+.submitBtn{
+    margin:2% 0 2% 0%;
+    border-radius: 5%;
+}
+
+.welcomeMsg{
+    color: red;
+    font-size: 41px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.textStyle{
+    font-size: medium;
+    color:black
+}
+
+.custom-bullet{
+    font-size: 18px;
+    color:blueviolet;
+    font-weight: bold;
+}
+
+.custom-bullet li {
+    display: block;
+}
+
+.custom-bullet li:before
+{
+    content:"\e006";
+    font-family: 'FontAwesome';
+    font-size: 20px;
+    float: left;
+    margin-top: 4px;
+    margin-left: -17px;
+    color: blueviolet;
+    padding-right: 15px;
+}
+

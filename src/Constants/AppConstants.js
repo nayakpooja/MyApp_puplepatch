@@ -6,7 +6,8 @@ var Constants ={
     listItems: ['The Most Advanced Platform in its Class','Built for E-commerce from the Ground Up',
     'Unified OMS, Shipping, ERP, and WMS','Groundbreaking Automation and Intelligence',
     'Social Media Marketing (SMM)',
-    'Search Engine Optimisation (SEO)'],
+    'Search Engine Optimisation (SEO)',
+    'Retail Marketing']
 }
 
 module.exports = Constants;
